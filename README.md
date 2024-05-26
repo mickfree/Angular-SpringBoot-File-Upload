@@ -15,25 +15,25 @@ The application allows users to upload files with a name, download the files, an
 ## Screenshot
 
 <p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20192933.jpg)">
 </p>
 
 | Upload                                                                                                                                                        | Download                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="1238" alt="Screenshot 2023-11-20 at 12 54 03 PM" src="[[https://github.com/abi/screenshot-to-code/assets/23818/3b644dfa-9ca6-4148-84a7-3405b6671922](https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20192933.jpg)](https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20193423.jpg)"> | <img width="1414" alt="Screenshot 2023-11-20 at 12 59 56 PM" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20193025.jpg"> |
+| <img width="1238" alt="Screenshot 2023-11-20 at 12 54 03 PM" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20193423.jpg"> | <img width="1414" alt="Screenshot 2023-11-20 at 12 59 56 PM" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20193025.jpg"> |
 
 
 ## CORS global configuration support
 - link: https://openwebinars.net/blog/como-configurar-cors-en-mi-api-rest-con-spring-boot/
 
 <p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
+  <img width="460" height="300" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20195753.jpg/460/300">
 </p>
 
 ## Swagger
 
 <p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
+  <img width="460" height="300" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20193107.jpg/460/300">
 </p>
 
 ## Installation
