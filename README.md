@@ -20,7 +20,7 @@ The application allows users to upload files with a name, download the files, an
 
 | Upload                                                                                                                                                        | Download                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="1500" alt="Screenshot 2023-11-20 at 12 54 03 PM" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20193423.jpg"> | <img width="1414" alt="Screenshot 2023-11-20 at 12 59 56 PM" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20193025.jpg"> |
+| <img width="2500" alt="Screenshot 2023-11-20 at 12 54 03 PM" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20193423.jpg"> | <img width="1414" alt="Screenshot 2023-11-20 at 12 59 56 PM" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20193025.jpg"> |
 
 
 ## CORS global configuration support
