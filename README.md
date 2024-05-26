@@ -15,7 +15,7 @@ The application allows users to upload files with a name, download the files, an
 ## Screenshot
 
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20192933.jpg)">
+  <img width="460" height="300" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20192933.jpg">
 </p>
 
 | Upload                                                                                                                                                        | Download                                                                                                                                                         |
@@ -27,13 +27,13 @@ The application allows users to upload files with a name, download the files, an
 - link: https://openwebinars.net/blog/como-configurar-cors-en-mi-api-rest-con-spring-boot/
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20195753.jpg/460/300">
+  <img width="460" height="300" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20195753.jpg">
 </p>
 
 ## Swagger
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20193107.jpg/460/300">
+  <img width="460" height="300" src="https://github.com/mickfree/Angular-SpringBoot-File-Upload/blob/master/githubim/Screenshot%202024-05-25%20193107.jpg">
 </p>
 
 ## Installation
